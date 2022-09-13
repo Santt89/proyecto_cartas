@@ -1,6 +1,6 @@
 ## Mini proyecto de cartas
 
-Este miniproyecto fue realizado para practicar el uso de clases en Python.
+Este miniproyecto fue realizado para ejercictar POO.
 
 Encontraremos un archivo llamado proyecto_cartas.py en el cual estara todo el codigo del proyecto.
 
